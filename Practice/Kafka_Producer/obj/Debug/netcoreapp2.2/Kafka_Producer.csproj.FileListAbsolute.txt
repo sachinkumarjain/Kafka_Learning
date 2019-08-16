@@ -1,0 +1,15 @@
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Producer.csproj.CoreCompileInputs.cache
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Producer.AssemblyInfoInputs.cache
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Producer.AssemblyInfo.cs
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Producer.csprojAssemblyReference.cache
+C:\Kafka_Training\Kafka_Producer\obj\Debug\netcoreapp2.2\Kafka_Producer.csproj.CoreCompileInputs.cache
+C:\Kafka_Training\Kafka_Producer\obj\Debug\netcoreapp2.2\Kafka_Producer.AssemblyInfoInputs.cache
+C:\Kafka_Training\Kafka_Producer\obj\Debug\netcoreapp2.2\Kafka_Producer.AssemblyInfo.cs
+C:\Kafka_Training\Kafka_Producer\bin\Debug\netcoreapp2.2\Kafka_Producer.deps.json
+C:\Kafka_Training\Kafka_Producer\bin\Debug\netcoreapp2.2\Kafka_Producer.runtimeconfig.json
+C:\Kafka_Training\Kafka_Producer\bin\Debug\netcoreapp2.2\Kafka_Producer.runtimeconfig.dev.json
+C:\Kafka_Training\Kafka_Producer\bin\Debug\netcoreapp2.2\Kafka_Producer.dll
+C:\Kafka_Training\Kafka_Producer\bin\Debug\netcoreapp2.2\Kafka_Producer.pdb
+C:\Kafka_Training\Kafka_Producer\obj\Debug\netcoreapp2.2\Kafka_Producer.dll
+C:\Kafka_Training\Kafka_Producer\obj\Debug\netcoreapp2.2\Kafka_Producer.pdb
+C:\Kafka_Training\Kafka_Producer\obj\Debug\netcoreapp2.2\Kafka_Producer.csprojAssemblyReference.cache

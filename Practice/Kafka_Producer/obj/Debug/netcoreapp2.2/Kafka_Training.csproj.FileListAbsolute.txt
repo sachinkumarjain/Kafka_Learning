@@ -1,0 +1,11 @@
+C:\Kafka_Training\bin\Debug\netcoreapp2.2\Kafka_Training.deps.json
+C:\Kafka_Training\bin\Debug\netcoreapp2.2\Kafka_Training.runtimeconfig.json
+C:\Kafka_Training\bin\Debug\netcoreapp2.2\Kafka_Training.runtimeconfig.dev.json
+C:\Kafka_Training\bin\Debug\netcoreapp2.2\Kafka_Training.dll
+C:\Kafka_Training\bin\Debug\netcoreapp2.2\Kafka_Training.pdb
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Training.csprojAssemblyReference.cache
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Training.csproj.CoreCompileInputs.cache
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Training.AssemblyInfoInputs.cache
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Training.AssemblyInfo.cs
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Training.dll
+C:\Kafka_Training\obj\Debug\netcoreapp2.2\Kafka_Training.pdb

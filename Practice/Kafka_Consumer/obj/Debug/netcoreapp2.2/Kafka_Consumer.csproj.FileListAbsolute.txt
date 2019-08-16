@@ -1,0 +1,11 @@
+C:\Kafka_Training\Kafka_Consumer\bin\Debug\netcoreapp2.2\Kafka_Consumer.deps.json
+C:\Kafka_Training\Kafka_Consumer\bin\Debug\netcoreapp2.2\Kafka_Consumer.runtimeconfig.json
+C:\Kafka_Training\Kafka_Consumer\bin\Debug\netcoreapp2.2\Kafka_Consumer.runtimeconfig.dev.json
+C:\Kafka_Training\Kafka_Consumer\bin\Debug\netcoreapp2.2\Kafka_Consumer.dll
+C:\Kafka_Training\Kafka_Consumer\bin\Debug\netcoreapp2.2\Kafka_Consumer.pdb
+C:\Kafka_Training\Kafka_Consumer\obj\Debug\netcoreapp2.2\Kafka_Consumer.csproj.CoreCompileInputs.cache
+C:\Kafka_Training\Kafka_Consumer\obj\Debug\netcoreapp2.2\Kafka_Consumer.AssemblyInfoInputs.cache
+C:\Kafka_Training\Kafka_Consumer\obj\Debug\netcoreapp2.2\Kafka_Consumer.AssemblyInfo.cs
+C:\Kafka_Training\Kafka_Consumer\obj\Debug\netcoreapp2.2\Kafka_Consumer.dll
+C:\Kafka_Training\Kafka_Consumer\obj\Debug\netcoreapp2.2\Kafka_Consumer.pdb
+C:\Kafka_Training\Kafka_Consumer\obj\Debug\netcoreapp2.2\Kafka_Consumer.csprojAssemblyReference.cache
